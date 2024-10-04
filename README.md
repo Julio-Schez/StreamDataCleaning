@@ -1,15 +1,15 @@
 Bienvenido a este proyecto donde implementamos un **algoritmo de limpieza de datos en tiempo real para nodos de IoT Subterráneas** basado en Arduino MKR WAN 1310. Este sistema mejora la calidad de los datos recolectados por sensores de **temperatura, humedad y pH del suelo 🌡️💧**, procesándolos en tiempo real para asegurar su fiabilidad.
 
-🛠️ Descripción del Nodo
+**Descripción del Nodo 🛠️**
 
-El nodo sensor utiliza la placa Arduino MKR WAN 1310, que permite la comunicación eficiente a través de LoRaWAN 📡, ideal para proyectos en áreas subterráneas o remotas. Los sensores conectados al nodo incluyen:
+El nodo sensor utiliza la placa **Arduino MKR WAN 1310**, que permite la comunicación eficiente a través de LoRaWAN 📡, ideal para proyectos en áreas subterráneas o remotas. Los sensores conectados al nodo incluyen:
 
 - Sensor de temperatura. Monitorea la temperatura del suelo 🌡️.
 - Sensor de humedad. Mide la humedad del suelo 💧.
 - Sensor de pH. Registra los niveles de acidez o alcalinidad del suelo ⚗️.
 
 
-Algoritmo de Limpieza de Datos en Tiempo Real ⏳ 
+**Algoritmo de Limpieza de Datos en Tiempo Real ⏳**
 
 El algoritmo está optimizado para funcionar en tiempo real, procesando cada dato conforme llega. Esto es crucial en aplicaciones donde los datos se utilizan para la toma de decisiones inmediatas, como en agricultura de precisión 🌾.
 
